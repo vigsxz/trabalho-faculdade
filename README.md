@@ -6,8 +6,7 @@ Barbearia do João
 
 ## Integrantes
 
-* Seu nome
-* Nome do parceiro
+* Vitor
 
 ---
 
@@ -84,12 +83,11 @@ Foi utilizado para grid responsivo, navbar e botões.
 
 ## 11. Links
 
-Repositório: (coloca aqui)
-Site: (coloca aqui)
+Repositório: 
+Site: https://vigsxz.github.io/trabalho-faculdade/
 
 ---
 
 ## 12. Contribuição dos integrantes
 
-* Integrante 1: HTML
-* Integrante 2: CSS e JavaScript
+* Vitor: HTML CSS e JavaScript
