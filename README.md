@@ -83,7 +83,7 @@ Foi utilizado para grid responsivo, navbar e botões.
 
 ## 11. Links
 
-Repositório: 
+Repositório: https://github.com/vigsxz/trabalho-faculdade
 Site: https://vigsxz.github.io/trabalho-faculdade/
 
 ---
