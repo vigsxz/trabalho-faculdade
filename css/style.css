@@ -1,0 +1,22 @@
+body {
+  background: #0b0b0b;
+  color: white;
+}
+
+.titulo-secao {
+  border-left: 5px solid #ffc107;
+  padding-left: 10px;
+}
+
+.card {
+  transition: 0.3s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
