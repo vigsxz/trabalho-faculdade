@@ -87,7 +87,10 @@ Repositório: https://github.com/vigsxz/trabalho-faculdade
 Site: https://vigsxz.github.io/trabalho-faculdade/
 
 ---
+## 12. Declaração de Integridade Acadêmica e Autoria
+Eu, abaixo identificado, declaro, para fins acadêmicos, que o trabalho intitulado "Barbearia do João", desenvolvido na disciplina Desenvolvimento Front-end, foi elaborado por eu, sozinho, conforme as orientações apresentadas pela professora.
 
-## 12. Contribuição dos integrantes
+---
+## 13. Contribuição dos integrantes
 
-* Vitor: HTML CSS e JavaScript
+* Vitor: HTML, CSS e JavaScript
